@@ -1,0 +1,96 @@
+body {
+  background-image: url(detektifbackground.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-color: black;
+}
+
+div.konten-utama {
+  background-color: #B22222;
+  text-align: center;
+  text-transform: uppercase;
+  border: 3px solid darkgrey border-radius: 100%;
+  padding: 5px 12px;
+}
+
+div#Introduction {
+  background-color: #A9A9A9;
+  border: 3px solid darkgrey border-radius: 100%;
+}
+
+div#Introduction h2.content1 {
+  text-align: center;
+  padding: 8px 18px;
+}
+
+div#Introduction p {
+  text-align: justify;
+  padding: 5px 12px;
+}
+
+div#Introduction p em {
+  text-align: justify;
+}
+
+div#Introduction p br {
+  text-align: justify;
+}
+
+div#Introduction blockquote.quote-content1 p {
+  background-color: #994d00;
+  text-align: center;
+  border: 3px solid firebrick border-radius: 100%;
+  padding: 8px 18px;
+}
+
+div#Introduction cite p {
+  text-align: center;
+  background-color: #994d00;
+  border: 3px solid firebrick border-radius: 100%;
+  padding: 8px 18px;
+}
+
+div.content2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.content-awalan-utama {
+  background-color: #A9A9A9;
+  border: 3px solid darkgrey border-radius: 100%;
+}
+
+div.content-awalan-utama h2.awalan-main-content {
+  text-align: center;
+  padding: 8px 18px;
+}
+
+div.content-awalan-utama p {
+  text-align: justify;
+  padding: 5px 12px;
+}
+
+div.content-awalan-utama p br {
+  text-align: justify;
+}
+
+div button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 17px;
+}
+
+footer {
+  text-align: center;
+  background-color: #33cc33;
+}
+
+footer div {}
+
+footer div form {}
+
+footer div form input {}
+
+footer div.copyright p {}
